@@ -4,9 +4,9 @@ In this project, I analyse dataset gotten from AlexTheAnalyst's github by cleani
 The data set is the result of a survey administered on 630 unique respondents who work in at least one field of data science/engineering.
 From the dataset, we can find out how happy data professionals are with their work as well as other minor information such as the favourite programming languages of data professionals.
 
-The dataset can be gotten [here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) and my SQL codes can be seen above. 
+**The dataset can be gotten [here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) and my SQL codes can be seen [here](https://github.com/DonOfJustice/Data-Professionals-Survey-Project/blob/main/data%20professionals%20survey%20SQL%20codes.sql).** 
 
-My Visualization on PowerBI can be seen and explored [here](https://app.powerbi.com/groups/me/reports/069d80b1-ccc2-4d17-864e-74de366405c1/ReportSection)
+**My Visualization on PowerBI can be seen and explored [here](https://app.powerbi.com/groups/me/reports/069d80b1-ccc2-4d17-864e-74de366405c1/ReportSection)**
 
 ## A few insights from the analysis
 
